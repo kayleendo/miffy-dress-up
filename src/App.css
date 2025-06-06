@@ -10,3 +10,198 @@
   height: 80vh;
   width: auto;
 }
+
+.closet-scene {
+  position: absolute;
+  width: auto;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 0px;
+}
+
+.shirt-container {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.closet-scene .shirts {
+  margin-top: 0px;
+  margin-left: 2px;
+  height: 51.4px;
+  width: auto;
+}
+
+.closet-scene .leftShirtArrow {
+  cursor: pointer;
+  margin-bottom: 30px;
+  margin-right: 75px;
+  height: 25px;
+  width: auto;
+}
+
+.closet-scene .rightShirtArrow {
+  cursor: pointer;
+  margin-bottom: 30px;
+  margin-left: 75px;
+  height: 25px;
+  width: auto;
+}
+
+
+
+.skirt-container {
+  width: auto;
+  height: 41.3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.closet-scene .skirts {
+  margin-top: 0px;
+  margin-left: 62px;
+  margin-right:60px;
+  height: 41.3px;
+  width: auto;
+}
+
+.closet-scene .leftSkirtArrow {
+  cursor: pointer;
+  margin-bottom: 20px;
+  margin-right: 0px;
+  height: 25px;
+  width: auto;
+}
+
+.closet-scene .rightSkirtArrow {
+  cursor: pointer;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  height: 25px;
+  width: auto;
+}
+
+
+
+.accessory-container {
+  width: auto;
+  height: 58.6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  padding-bottom: 90px;
+}
+
+.closet-scene .accessories {
+  margin-top: 65px;
+  margin-left: 84px;
+  margin-right:82px;
+  height: 25px;
+  width: auto;
+}
+
+.closet-scene .leftAccessoryArrow {
+  cursor: pointer;
+  margin-top: 74px;
+  margin-right: 0px;
+  height: 25px;
+  width: auto;
+}
+
+.closet-scene .rightAccessoryArrow {
+  cursor: pointer;
+  margin-top: 74px;
+  margin-left: 0px;
+  height: 25px;
+  width: auto;
+}
+
+
+
+.shoe-container {
+  width: auto;
+  height: 15.45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 0px;
+}
+
+.closet-scene .shoes {
+  margin-top: 10px;
+  margin-left: 92px;
+  margin-right:90px;
+  height: 15.45px;
+  width: auto;
+}
+
+.closet-scene .leftShoeArrow {
+  cursor: pointer;
+  margin-top: 0px;
+  margin-right: 0px;
+  height: 25px;
+  width: auto;
+}
+
+.closet-scene .rightShoeArrow {
+  cursor: pointer;
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 25px;
+  width: auto;
+}
+
+
+
+.final-outfit {
+  position: absolute;
+  width: auto;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 95px;
+}
+
+.final-outfit .accessories {
+  margin-top: 0px;
+  margin-left: 84px;
+  margin-right:82px;
+  margin-bottom: 35px;
+  height: 25px;
+  width: auto;
+}
+
+.final-outfit .shirts {
+  margin-top: 40px;
+  margin-left: 2px;
+  height: 51.4px;
+  width: auto;
+}
+
+.final-outfit .skirts {
+  margin-bottom: 5px;
+  margin-left: 62px;
+  margin-right:60px;
+  height: 41.3px;
+  width: auto;
+}
+
+.final-outfit .shoes {
+  margin-top: 0px;
+  margin-left: 92px;
+  margin-right:90px;
+  height: 15.45px;
+  width: auto;
+}
