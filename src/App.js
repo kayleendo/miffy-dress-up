@@ -140,24 +140,24 @@ function App() {
       {clicked && !enter && (
         <div className="closet-scene">
           <div className='accessory-container'>
-            <img className="leftAccessoryArrow" src={leftArrowAccessories} alt="left-accessory-arrow" style={{opacity: 1}} onClick={leftAccessoryArrowClick}/>
+            <img className="leftAccessoryArrow" src={leftArrowAccessories} alt="left-accessory-arrow" style={{opacity: 0}} onClick={leftAccessoryArrowClick}/>
             <img className="accessories" src={accessories[accessoryIndex]}/>
-            <img className="rightAccessoryArrow" src={rightArrowAccessories} alt="right-accessory-arrow" style={{opacity: 1}} onClick={rightAccessoryArrowClick}/>
+            <img className="rightAccessoryArrow" src={rightArrowAccessories} alt="right-accessory-arrow" style={{opacity: 0}} onClick={rightAccessoryArrowClick}/>
           </div>
           <div className="shirt-container">
-            <img className="leftShirtArrow" src={leftArrowShirt} alt="left-shirt-arrow" style={{opacity: 1}} onClick={leftShirtArrowClick}/>
+            <img className="leftShirtArrow" src={leftArrowShirt} alt="left-shirt-arrow" style={{opacity: 0}} onClick={leftShirtArrowClick}/>
             <img className="shirts" src={shirts[shirtIndex]}/>
-            <img className="rightShirtArrow" src={rightArrowShirt} alt="right-shirt-arrow" style={{opacity: 1}} onClick={rightShirtArrowClick}/>
+            <img className="rightShirtArrow" src={rightArrowShirt} alt="right-shirt-arrow" style={{opacity: 0}} onClick={rightShirtArrowClick}/>
           </div>
           <div className="skirt-container">
-            <img className="leftSkirtArrow" src={leftArrowSkirt} alt="left-skirt-arrow" style={{opacity: 1}} onClick={leftSkirtArrowClick}/>
+            <img className="leftSkirtArrow" src={leftArrowSkirt} alt="left-skirt-arrow" style={{opacity: 0}} onClick={leftSkirtArrowClick}/>
             <img className="skirts" src={skirts[skirtIndex]}/>
-            <img className="rightSkirtArrow" src={rightArrowSkirt} alt="right-skirt-arrow" style={{opacity: 1}} onClick={rightSkirtArrowClick}/>
+            <img className="rightSkirtArrow" src={rightArrowSkirt} alt="right-skirt-arrow" style={{opacity: 0}} onClick={rightSkirtArrowClick}/>
           </div>
           <div className='shoe-container'>
-            <img className="leftShoeArrow" src={leftArrowShoe} alt="left-shoe-arrow" style={{opacity: 1}} onClick={leftShoeArrowClick}/>
+            <img className="leftShoeArrow" src={leftArrowShoe} alt="left-shoe-arrow" style={{opacity: 0}} onClick={leftShoeArrowClick}/>
             <img className="shoes" src={shoes[shoeIndex]}/>
-            <img className="rightShoeArrow" src={rightArrowShoe} alt="right-shoe-arrow" style={{opacity: 1}} onClick={rightShoeArrowClick}/>
+            <img className="rightShoeArrow" src={rightArrowShoe} alt="right-shoe-arrow" style={{opacity: 0}} onClick={rightShoeArrowClick}/>
           </div>
         </div>
       )}
