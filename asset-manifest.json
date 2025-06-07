@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/miffy-dress-up/static/css/main.fc542214.css",
+    "main.css": "/miffy-dress-up/static/css/main.a3afc3e3.css",
     "main.js": "/miffy-dress-up/static/js/main.8b5af10c.js",
     "static/js/453.eda404be.chunk.js": "/miffy-dress-up/static/js/453.eda404be.chunk.js",
     "static/media/End-Scene-1.png": "/miffy-dress-up/static/media/End-Scene-1.4db5815df65b992d9459.png",
@@ -9,12 +9,12 @@
     "static/media/Intro-Page-1.png": "/miffy-dress-up/static/media/Intro-Page-1.ae52a10d4e7345002546.png",
     "static/media/Intro-Page-2.png": "/miffy-dress-up/static/media/Intro-Page-2.1b7eef82d1eab388946c.png",
     "index.html": "/miffy-dress-up/index.html",
-    "main.fc542214.css.map": "/miffy-dress-up/static/css/main.fc542214.css.map",
+    "main.a3afc3e3.css.map": "/miffy-dress-up/static/css/main.a3afc3e3.css.map",
     "main.8b5af10c.js.map": "/miffy-dress-up/static/js/main.8b5af10c.js.map",
     "453.eda404be.chunk.js.map": "/miffy-dress-up/static/js/453.eda404be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc542214.css",
+    "static/css/main.a3afc3e3.css",
     "static/js/main.8b5af10c.js"
   ]
 }
