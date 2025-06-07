@@ -1,7 +1,7 @@
 {
   "name": "miffy-dress-up",
   "version": "0.1.0",
-  "homepage": "https://kayleendo.github.io/miffy-dress-up/",
+  "homepage": "https://kayleendo.github.io/miffy-dress-up",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
